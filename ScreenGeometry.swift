@@ -9,10 +9,10 @@ import UIKit
 
 struct ScreenGeometry {
   
-  let height :CGFloat
-  let width :CGFloat
-  let safeTop :CGFloat
-  let safeBottom :CGFloat
+  let height: CGFloat
+  let width: CGFloat
+  let safeTop: CGFloat
+  let safeBottom: CGFloat
   
   static let shared = ScreenGeometry()
   
